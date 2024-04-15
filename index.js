@@ -3,13 +3,13 @@ let participantes = [
       nome: "Aman Modesto",
       email: "aman@gmail.com",
       dataInscricao: new Date(2024, 0, 22, 19, 20),
-      dataCheckIn: new Date(2024, 2, 25, 22, 00)
+      dataCheckIn: new Date(2024, 2, 25, 22, 0)
     },
     {
       nome: "John Frusciante",
       email: "frusciante@gmail.com",
-      dataInscricao: new Date(2024, 03, 13, 09, 20),
-      dataCheckIn: new Date(2024, 6, 15, 02, 00)
+      dataInscricao: new Date(2024, 3, 13, 9, 20),
+      dataCheckIn: new Date(2024, 6, 15, 2, 0)
     },
     {
       nome: "Maria Silva",
@@ -27,12 +27,12 @@ let participantes = [
       nome: "Ana Costa",
       email: "ana@gmail.com",
       dataInscricao: new Date(2023, 3, 18, 17, 45),
-      dataCheckIn: new Date(2023, 6, 7, 09, 30)
+      dataCheckIn: new Date(2023, 6, 7, 9, 30)
     },
     {
       nome: "Pedro Santos",
       email: "pedro@gmail.com",
-      dataInscricao: new Date(2023, 5, 5, 08, 00),
+      dataInscricao: new Date(2023, 5, 5, 8, 0),
       dataCheckIn: null
     },
     {
@@ -45,7 +45,7 @@ let participantes = [
       nome: "Gabriel Almeida",
       email: "gabriel@gmail.com",
       dataInscricao: new Date(2023, 8, 8, 13, 15),
-      dataCheckIn: new Date(2023, 11, 5, 08, 55)
+      dataCheckIn: new Date(2023, 11, 5, 8, 55)
     },
     {
       nome: "Juliana Lima",
