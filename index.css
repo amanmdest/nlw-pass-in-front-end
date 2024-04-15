@@ -27,7 +27,7 @@
   }
   
   form {
-    border: var(--border);
+    border: 1px solid #ffffff1a;
     border-inline: 0;
     padding: 20px 0;
   }
