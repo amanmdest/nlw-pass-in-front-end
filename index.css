@@ -28,7 +28,7 @@
   
   form {
     border: var(--border);
-    border-inline: none;
+    border-inline: 0;
     padding: 20px 0;
   }
   
